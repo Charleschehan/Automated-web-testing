@@ -1,2 +1,2 @@
-# Automated-web-testing
-Simple keyword driven, Selenium based web testing program
+# AWT
+Keyword driven Selenium based automated website testing program
